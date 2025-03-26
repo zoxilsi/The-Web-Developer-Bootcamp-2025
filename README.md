@@ -10,14 +10,14 @@ Welcome to my **Colt Steele Web Developer Bootcamp** repository! This contains m
 
 This bootcamp covers fundamental and advanced web development concepts, including:
 
-✅ **HTML, CSS, and Flexbox**  
-✅ **JavaScript and DOM Manipulation**  
-✅ **Bootstrap and Responsive Design**  
-✅ **Node.js, Express.js, and REST APIs**  
-✅ **MongoDB and Mongoose**  
-✅ **Authentication and Security**  
-✅ **React.js Basics**  
-✅ **Deployment and Best Practices**  
+✅ **HTML, CSS, and Flexbox** ![HTML & CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)  
+✅ **JavaScript and DOM Manipulation** ![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)  
+✅ **Bootstrap and Responsive Design** ![Bootstrap](https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif)  
+✅ **Node.js, Express.js, and REST APIs** ![Node.js](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
+✅ **MongoDB and Mongoose** ![MongoDB](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
+✅ **Authentication and Security** 🔒  
+✅ **React.js Basics** ![React](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif)  
+✅ **Deployment and Best Practices** 🚀  
 
 ---
 
@@ -55,6 +55,8 @@ Here are some exciting projects I built during the bootcamp:
 🔹 **Authentication:** Passport.js, bcrypt  
 🔹 **Deployment:** Heroku, Vercel, Netlify  
 
+![Tech Stack](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+
 ---
 
 ## 📜 Notes 📝
@@ -68,6 +70,8 @@ I have included notes from the lectures in each section to help with revision. �
 ✨ Strengthen my full-stack web development skills  
 ✨ Build and deploy real-world web applications  
 ✨ Gain hands-on experience with the latest web technologies  
+
+![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
